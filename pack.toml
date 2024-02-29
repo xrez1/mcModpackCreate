@@ -1,0 +1,13 @@
+name = "knights n gears"
+author = "yreez"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9dd4073c283a24cc60f6a06204cdae1c24ce2030de131fef935084479627771f"
+
+[versions]
+fabric = "0.15.7"
+minecraft = "1.20.1"

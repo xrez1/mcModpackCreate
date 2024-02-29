@@ -1,0 +1,13 @@
+name = "FakerLib"
+filename = "fakerlib-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ORX9fPw1/versions/XuouEowv/fakerlib-0.1.1.jar"
+hash-format = "sha1"
+hash = "a517a37a4b48f34eece8b82f8da6d714d9d7de8e"
+
+[update]
+[update.modrinth]
+mod-id = "ORX9fPw1"
+version = "XuouEowv"
